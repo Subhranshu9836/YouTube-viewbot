@@ -1,0 +1,3 @@
+Click the green "Code" button
+Download ZIP and extract itpip install -r requirements.txt
+python main.py
